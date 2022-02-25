@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Viikko8",
+    "slug": "Viikko8",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Viikko8"
+}
